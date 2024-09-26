@@ -1,0 +1,13 @@
+{
+    "userId": 123,
+    "items": [
+        {
+            "productId": 1,
+            "name": "Pizza",
+            "price": 20000,
+            "quantity": 2,
+            "totalPrice": 40000
+        }
+    ],
+    "totalAmount": 73000
+}

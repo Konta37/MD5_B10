@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+        "price": 20000,
+        "img":"./src/assets/images/pizza.jpg",
+        "quantity": 10
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "description": "Juicy grilled beef patty with fresh lettuce, tomatoes, and melted cheese.",
+        "price": 15000,
+        "img":"./src/assets/images/pizza.jpg",
+        "quantity": 15
+    },
+    {
+        "id": 3,
+        "name": "Pasta",
+        "description": "Creamy Alfredo sauce mixed with perfectly cooked pasta and grilled chicken.",
+        "price": 18000,
+        "img":"./src/assets/images/pizza.jpg",
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "name": "Salad",
+        "description": "Fresh greens with cherry tomatoes, cucumber, and a light vinaigrette dressing.",
+        "price": 12000,
+        "img":"./src/assets/images/pizza.jpg",
+        "quantity": 20
+    },
+    {
+        "id": 5,
+        "name": "Soda",
+        "description": "Chilled soft drink to accompany your meal.",
+        "price": 5000,
+        "img":"./src/assets/images/pizza.jpg",
+        "quantity": 50
+    }
+]
